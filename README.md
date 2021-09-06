@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 <a href="https://stackoverflow.com/users/10368695/abdullah-khan"><img src="https://stackoverflow.com/users/flair/10368695.png" width="208" height="58" alt="profile for Abdullah Khan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdullah Khan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
---->
