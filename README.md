@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-abdollahkhan/abdollahkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<a href="https://stackoverflow.com/users/10368695/abdullah-khan"><img src="https://stackoverflow.com/users/flair/10368695.png" width="208" height="58" alt="profile for Abdullah Khan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdullah Khan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 --->
