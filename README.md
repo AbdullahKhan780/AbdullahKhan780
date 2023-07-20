@@ -5,9 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahkhan780" alt="abdullahkhan780" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/users/kingofdesigns1)
+👋 Hello there! I'm Abdullah Khan, a passionate and skilled front-end developer with over 4 years of hands-on experience in building dynamic and user-friendly web applications.
 
-- 🌱 I’m currently learning **new technologies**
+🚀 My journey in the world of web development began with a fascination for crafting elegant and efficient solutions to real-world problems. Since then, I have honed my skills in the ever-evolving landscape of frontend technologies, establishing myself as a specialist in React.js, the powerful JavaScript library for building UI components.
+
+💻 With React.js as my forte, I take immense pleasure in crafting seamless user interfaces that deliver exceptional user experiences. My proficiency extends to utilizing the utility-first CSS framework, TailwindCSS, to ensure a responsive and visually stunning design across devices.
+
+🔄 State management is the backbone of any robust frontend application, and this is where Zustand comes into play. My expertise in Zustand allows me to efficiently manage complex application states while keeping the codebase maintainable and scalable.
+
+📝 Moreover, I excel in implementing form validations and handling form submissions with ease, thanks to my in-depth knowledge of React Hook Form, an intuitive library that simplifies form management.
+
+🎓 As a continual learner in the fast-paced tech industry, I stay updated with the latest advancements, trends, and best practices, ensuring that the solutions I deliver are cutting-edge and future-proof.
+
+🌟 Collaborating with cross-functional teams, I have successfully delivered several projects that have made a positive impact on users and clients alike.
+
+🏆 If you're seeking a frontend developer who is not only well-versed in React.js, TailwindCSS, Zustand, and React Hook Form but also dedicated to delivering exceptional results, I'm eager to take on new challenges and contribute my skills to create outstanding web experiences.
+
+Let's connect [Fiverr](https://www.fiverr.com/users/kingofdesigns1) and create something amazing together! 🤝
 
 - 🚀 My Website [Oridune](https://oridune.com)
 
