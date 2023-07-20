@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhan780&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhan780" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahkhan780" alt="abdullahkhan780" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 👋 Hello there! I'm Abdullah Khan, a passionate and skilled front-end developer with over 4 years of hands-on experience in building dynamic and user-friendly web applications.
 
