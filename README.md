@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate and skilled front-end developer</h3>
 
-👋 Hello there! I'm Abdullah Khan, a passionate and skilled front-end developer with over 4 years of hands-on experience in building dynamic and user-friendly web applications.
+with over 4 years of hands-on experience in building dynamic and user-friendly web applications.
 
 🚀 My journey in the world of web development began with a fascination for crafting elegant and efficient solutions to real-world problems. Since then, I have honed my skills in the ever-evolving landscape of frontend technologies, establishing myself as a specialist in React.js, the powerful JavaScript library for building UI components.
 
