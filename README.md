@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhan780&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhan780" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
 👋 Hello there! I'm Abdullah Khan, a passionate and skilled front-end developer with over 4 years of hands-on experience in building dynamic and user-friendly web applications.
 
 🚀 My journey in the world of web development began with a fascination for crafting elegant and efficient solutions to real-world problems. Since then, I have honed my skills in the ever-evolving landscape of frontend technologies, establishing myself as a specialist in React.js, the powerful JavaScript library for building UI components.
